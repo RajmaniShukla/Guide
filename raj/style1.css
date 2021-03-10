@@ -1,0 +1,18 @@
+ #district{     height: 35px;
+    margin-left: 25%;background-color: #fefee3;
+     margin-top: 10px;
+    width: 50%;
+    border-radius: 12px;
+   }
+     #hotel{    padding-top: 1%;
+    margin: auto;
+    width: 50%;}
+#district:focus{ outline: none;}
+.head{    background-color: #fefee3;
+    height: 100px;
+    width: 100%;}
+.head img{margin-left: 43%;
+    height: 80px;}
+body{border: 0px solid;padding: 0px;margin: 0px;background-color: #fefee3;}
+.front{width: 100%;}
+.front img{width: 100%;height: 60%;}
