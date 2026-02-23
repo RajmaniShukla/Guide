@@ -1,0 +1,62 @@
+# Database credentials - NEVER commit!
+raj/db.php
+db.php
+**/db.php
+config.php
+**/config.php
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+error_log
+
+# Uploaded content (if user uploads)
+uploads/
+raj/uploads/
+
+# Cache
+cache/
+*.cache
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Compressed archives (keep guide.zip as it's part of project)
+# *.zip
+
+# Node modules (if added later)
+node_modules/
+
+# Composer (if added later)
+vendor/
+
+# Session files
+sess_*
+
+# PHPUnit
+.phpunit.result.cache
+phpunit.xml
